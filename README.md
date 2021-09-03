@@ -64,10 +64,10 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/vaibhav-magar-1591371bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Vaibhav80238360"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/iamvaiibhav/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "mailto: vaibhavmagar1901@gmail.com"> <img src="https://img.icons8.com/fluency/50/000000/gmail-new.png"/></a>
+<a href = "https://www.linkedin.com/in/omkar-gunjal-974b60193/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/OmkarGu03221490"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/omkar9017/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto: omkarg1417@gmail.com"> <img src="https://img.icons8.com/fluency/50/000000/gmail-new.png"/></a>
 
 </p>
 
