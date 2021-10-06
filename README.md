@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Website for NGO.**
-
 - 🌱 I’m currently learning **Backend Web-developement.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 💻 I'm also a competitive programmer.
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
